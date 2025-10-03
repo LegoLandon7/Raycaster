@@ -1,0 +1,23 @@
+.main-text{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+.main-background{
+    background-color: #414141;
+}
+.canvas{
+    position: absolute;
+    border: 1px solid #000000;
+    aspect-ratio: 16 / 9;
+    width:75%;
+    height:auto;
+    left: 0px;
+    top: 0px;
+}
+.settings-container{
+    position: absolute;
+    left:76%;
+    top:1%;
+    width:20%;
+    height:100%;
+}
